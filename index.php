@@ -1,4 +1,3 @@
 <?php
-	echo "Hello!"
-	echo "Udemy."
+	echo "Olá Udemy!!";	
 ?>
